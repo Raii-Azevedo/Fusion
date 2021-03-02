@@ -1,0 +1,15 @@
+dj-database-url==0.5.0
+dj-static==0.0.6
+Django==3.1.5
+django-adminlte==1.2
+django-adminlte3==0.1.6
+django-stdimage==5.1.1
+gunicorn==20.0.4
+Pillow==7.0.0
+progressbar2==3.53.1
+psycopg2-binary==2.8.6
+python-utils==2.5.5
+pytz==2020.5
+six==1.14.0
+sqlparse==0.4.1
+static3==0.7.0

@@ -5,7 +5,7 @@
 ... Fusion é um protótipo de website para uma empresa que presta serviços relacionados a tecnologia.
  
  
-## Technologia
+## Tecnologia
  
 Aqui estão as tecnologias utilizadas nesse projeto:
  

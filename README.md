@@ -1,4 +1,4 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://fusion-rai.herokuapp.com/static/img/logo.png)
  
 ## Fusion
  

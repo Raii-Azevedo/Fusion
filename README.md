@@ -7,7 +7,7 @@
  
 ## Technologia
  
-qui estão as tecnologias utilizadas nesse projeto:
+Aqui estão as tecnologias utilizadas nesse projeto:
  
 dj-database-url==0.5.0
 dj-static==0.0.6

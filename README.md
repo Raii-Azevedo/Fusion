@@ -1,4 +1,5 @@
 ![Logo of the project](https://fusion-rai.herokuapp.com/static/img/logo.png)
+![Fusion](https://github.com/Raii-Azevedo/Fusion/blob/master/fusion.gif)
  
 ## Fusion
  

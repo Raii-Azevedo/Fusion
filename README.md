@@ -3,7 +3,8 @@
  
 ## Fusion
  
-... Fusion é um protótipo de website para uma empresa que presta serviços relacionados a tecnologia.
+- Fusion é um protótipo de website para uma empresa que presta serviços relacionados a tecnologia.
+- Fusion is a website prototype for a company that provides technology-related services.
  
  
 ## Tecnologia
